@@ -8,9 +8,9 @@
 
 <div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
   <a href="https://github.com/JamillyVihtoria">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamillyVihtoria&show_icons=true&theme=cobalt&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JamillyVihtoria&show_icons=true&theme=cobalt&count_private=true" />
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyVihtoria&layout=compact&langs_count=16&theme=cobalt" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyVihtoria&layout=compact&langs_count=16&theme=cobalt" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,5 +29,6 @@
   <a href="https://www.instagram.com/jamillyvihtoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:barbosajamilly45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jamilly-vitoria-ferreira-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img align="right" width="100px" src="https://cdn.discordapp.com/attachments/979553894847297404/982548985816983724/jett.gif">
 </div>
+![Snake animation](https://github.com/JamillyVihtoria/JamillyVihtoria/blob/output/github-contribution-grid-snake.svg)
