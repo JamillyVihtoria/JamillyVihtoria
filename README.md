@@ -22,9 +22,9 @@ Atualmente trabalho com Análise de Dados, utilizando Python, Jupyter, SQL e Pow
 
 <div style="display: grid; grid-template-columns: auto auto; gap: 9px;">
   <a href="https://github.com/JamillyVihtoria">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JamillyVihtoria&show_icons=true&theme=cobalt&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JamillyVihtoria&show_icons=true&theme=cobalt&count_private=true" />
   </a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyVihtoria&layout=compact&langs_count=16&theme=cobalt" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyVihtoria&layout=compact&langs_count=16&theme=cobalt" />
 </div>
 
 <picture align="center">
