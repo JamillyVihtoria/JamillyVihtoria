@@ -26,6 +26,8 @@
   <img alt="Jam-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
+<img align="right" alt="" height="190px" src=".scr/study.gif">
+
 ## 
 
 <div align="center">
