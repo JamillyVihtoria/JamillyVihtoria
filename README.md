@@ -31,16 +31,6 @@
 ## 
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
-    <a href="https://github.com/JamillyVihtoria">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JamillyVihtoria&show_icons=true&theme=cobalt&count_private=true" />
-    </a>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyVihtoria&layout=compact&langs_count=16&theme=cobalt" />
-  </div>
-</div>
-
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JamillyVihtoria/JamillyVihtoria/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JamillyVihtoria/JamillyVihtoria/output/github-contribution-grid-snake.svg">
