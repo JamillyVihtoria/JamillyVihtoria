@@ -16,14 +16,14 @@
   <a href="https://www.linkedin.com/in/jamilly-vitoria-ferreira-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center"><br>
-  <img alt="Jam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Jam-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
-  <img alt="Jam-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-  <img alt="Jam-Stream" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
-  <img alt="Jam-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
-  <img alt="Jam-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img alt="Jam-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+<div align="center">
+  <img style="display:inline-block;" alt="Jam-Python" height="30" width="40" src="...">
+  <img style="display:inline-block;" alt="Jam-Anaconda" height="30" width="40" src="...">
+  <img style="display:inline-block;" alt="Jam-Pandas" height="30" width="40" src="...">
+  <img style="display:inline-block;" alt="Jam-Stream" height="30" width="40" src="...">
+  <img style="display:inline-block;" alt="Jam-Jupyter" height="30" width="40" src="...">
+  <img style="display:inline-block;" alt="Jam-SQL" height="30" width="40" src="...">
+  <img style="display:inline-block;" alt="Jam-Post" height="30" width="40" src="...">
 </div>
 
 <img align="right" alt="" height="190px" src=".scr/study.gif">
