@@ -17,13 +17,13 @@
 </div>
 
 <div align="center">
-  <img style="display:inline-block;" alt="Jam-Python" height="30" width="40" src="...">
-  <img style="display:inline-block;" alt="Jam-Anaconda" height="30" width="40" src="...">
-  <img style="display:inline-block;" alt="Jam-Pandas" height="30" width="40" src="...">
-  <img style="display:inline-block;" alt="Jam-Stream" height="30" width="40" src="...">
-  <img style="display:inline-block;" alt="Jam-Jupyter" height="30" width="40" src="...">
-  <img style="display:inline-block;" alt="Jam-SQL" height="30" width="40" src="...">
-  <img style="display:inline-block;" alt="Jam-Post" height="30" width="40" src="...">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 <img align="right" alt="" height="190px" src=".scr/study.gif">
